@@ -12,6 +12,10 @@ The SCRs will need a gate resistor sized appropriately for the amount of current
 |:--:| 
 | *Figure 1. Controller board. Note that this is was the original version and modifications needed to be made to the zero crossing detector. These changes are reflected in the latest board files.* |
 
-![Figure 2. Schematic of single output controller board.](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/scr_precharge_single_REV_B/scr_precharge_single_sch.png?raw=true)
+![scr_precharge_single_sch.png](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/scr_precharge_single_REV_B/scr_precharge_single_sch.png?raw=true)
+|:--:| 
+| *Figure 2. Schematic of single output controller board.* |
 
-![alt text](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/skkt_gate_brd.JPG?raw=true)
+![skkt_gate_brd.JPG](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/skkt_gate_brd.JPG?raw=true)
+|:--:| 
+| *Figure 3. Dual Semikron SCR modules with the gate boards.* |
