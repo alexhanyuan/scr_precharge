@@ -8,7 +8,9 @@ The board comprises of a zero crossing detector, an ATTINY85 which generates the
 
 The SCRs will need a gate resistor sized appropriately for the amount of current necessary to turn it on. I used 5.1 ohms on the Semipack 1 SKKT modules. The precharge board outputs must also be phased properly. Additionally, on 120VAC input the hot line must be connected to pin 2 of X2 otherwise the zero crossing detector will not be able to detect any zero crossings. With 240VAC, both lines are hot so it will not matter.
 
-![Figure 1. Controller board. Note that this is was the original version and modifications needed to be made to the zero crossing detector. These changes are reflected in the latest board files.](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/scrpchg.JPG?raw=true)
+![scrpchg.JPG](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/scrpchg.JPG?raw=true)
+|:--:| 
+| *Figure 1. Controller board. Note that this is was the original version and modifications needed to be made to the zero crossing detector. These changes are reflected in the latest board files.* |
 
 ![Figure 2. Schematic of single output controller board.](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/scr_precharge_single_REV_B/scr_precharge_single_sch.png?raw=true)
 
