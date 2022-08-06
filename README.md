@@ -13,7 +13,7 @@ The SCRs will need a gate resistor sized appropriately for the amount of current
 
 Pick your opto of choice, then size the resistors according to the logic voltage. I used this with a UD3 so the signals were 24V.
 
-I have some boards left over, so if you just need a couple, shoot me a message!
+If you have any questions or are looking for a couple of bare boards, feel free to shoot me a message! 
 
 ![scrpchg.JPG](https://github.com/alexhanyuan/scr_precharge/blob/main/hw/scrpchg.JPG?raw=true)
 |:--:| 
