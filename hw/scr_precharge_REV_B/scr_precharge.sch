@@ -14091,8 +14091,8 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <part name="X2" library="con-molex" deviceset="22-23-2021" device="" value="AC IN"/>
 <part name="C10" library="resistor" deviceset="CPOL-US" device="E3.5-8" value="470uF"/>
 <part name="C6" library="resistor" deviceset="C-EU" device="C0805" value="1u"/>
-<part name="D5" library="diode" deviceset="SMAZ12-TP" device=""/>
-<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCH" device="-AO3404A" value="NTR5198NL"/>
+<part name="D5" library="diode" deviceset="SMAZ12-TP" device="" value="SMAZ12-TP"/>
+<part name="Q1" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCH" device="-AO3404A" value="SSM3K341R.LF"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="D4" library="diode" deviceset="1N4148" device="MICROMELF" value="1N4148MICROMELF"/>
 <part name="T1" library="Alex" deviceset="78602" device="" value="78602"/>
@@ -14108,8 +14108,8 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 <part name="C9" library="resistor" deviceset="C-EU" device="C0805" value="1n"/>
 <part name="C11" library="resistor" deviceset="CPOL-US" device="E3.5-8" value="470uF"/>
 <part name="C8" library="resistor" deviceset="C-EU" device="C0805" value="1u"/>
-<part name="D7" library="diode" deviceset="SMAZ12-TP" device=""/>
-<part name="Q2" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCH" device="-AO3404A" value="NTR5198NL"/>
+<part name="D7" library="diode" deviceset="SMAZ12-TP" device="" value="SMAZ12-TP"/>
+<part name="Q2" library="SparkFun-DiscreteSemi" deviceset="MOSFET-NCH" device="-AO3404A" value="SSM3K341R.LF"/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="D6" library="diode" deviceset="1N4148" device="MICROMELF" value="1N4148MICROMELF"/>
 <part name="T2" library="Alex" deviceset="78602" device="" value="78602"/>
