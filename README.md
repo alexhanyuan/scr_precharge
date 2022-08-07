@@ -9,7 +9,7 @@ https://www.st.com/resource/en/application_note/an4606-inrushcurrent-limiter-cir
 
 The board comprises of a zero crossing detector, an ATTINY85 which generates the appropriate PWM gate signals, GDT outputs, and opto-isolated control inputs for precharge and run modes. There are two versions of the board, only difference being the type of GDT used, depending on the type of SCR configuration (dual or half SCR/diode modules).
 
-The SCRs will need a gate resistor sized appropriately for the amount of current necessary to turn it on. I used 5.1 ohms on the Semipack 1 SKKT modules. The precharge board outputs must also be phased properly. Additionally, on 120VAC input, the hot line must be connected to pin 2 of X2 otherwise the zero crossing detector will not be able to detect any zero crossings. With 240VAC, both lines are hot so it will not matter.
+The SCRs will need a gate resistor sized appropriately for the amount of current necessary to turn it on. I used 5.1 ohms on the Semipack 1 SKKT modules. The precharge board outputs must also be phased properly. Additionally, on 120VAC input, the hot line must be connected to pin 1 of X2 otherwise the zero crossing detector will not be able to detect any zero crossings. With 240VAC, both lines are hot so it will not matter.
 
 Pick your opto of choice, then size the resistors according to the logic voltage. I used this with a UD3 so the signals were 24V.
 
